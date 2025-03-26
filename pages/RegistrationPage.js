@@ -21,7 +21,8 @@ class RegistrationPage {
       await this.passwordInput.fill(password); // Fill in the password input
       await this.submitButton.click(); // Click the submit button
     }
-  
+
+   
     
   }
   
